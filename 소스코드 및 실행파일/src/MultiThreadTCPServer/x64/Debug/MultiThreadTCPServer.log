@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : 'c:\users\sungbae\desktop\서버프로젝트\multithreadtcpserver\x64\debug\multithreadtcpserver.ilk' 파일은 다른 프로세스에서 사용 중이므로 프로세스에서 액세스할 수 없습니다.
+  Board.cpp
+  ClientInfo.cpp
+  Dice.cpp
+  GameManager.cpp
+  InGameManager.cpp
+  LoginManager.cpp
+  LogManager.cpp
+  main.cpp
+  play.cpp
+  Player.cpp
+  server.cpp
+  UserDBManager.cpp
+  코드를 생성하고 있습니다...
+  LINK : C:\Users\SungBae\Desktop\서버프로젝트\MultiThreadTCPServer\x64\Debug\MultiThreadTCPServer.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  MultiThreadTCPServer.vcxproj -> C:\Users\SungBae\Desktop\서버프로젝트\MultiThreadTCPServer\x64\Debug\MultiThreadTCPServer.exe
